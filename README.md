@@ -1,6 +1,6 @@
 # GIT Tutorial W3Schools
 
 1. git init 
-2. git add .
-3. git commit -m 'Commit Description'
-4. git push -u origin master
+1. git add .
+1. git commit -m 'Commit Description'
+1. git push -u origin master
